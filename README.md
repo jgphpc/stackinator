@@ -1,6 +1,6 @@
 # Stackinator
 
-A tool for building a scientific software stack from a recipe for vClusters on CSCS' Alps infrastructure.
+A tool for building a scientific software stack from a recipe for vClusters on CSCS\' Alps infrastructure.
 
 ## Bootstrapping
 Use the `bootstrap.sh` script to install the necessary dependencies. 

@@ -13,11 +13,11 @@ gcc-env:
     - +mpi
     - +cuda
     - cuda_arch=80
-tools:
-  compiler:
-      - toolchain: gcc
-        spec: gcc@11
-  unify: true
-  specs:
-  - cmake
-  - python@3.10
+# tools:
+#   compiler:
+#       - toolchain: gcc
+#         spec: gcc@11
+#   unify: true
+#   specs:
+#   - cmake
+#   - python@3.10
